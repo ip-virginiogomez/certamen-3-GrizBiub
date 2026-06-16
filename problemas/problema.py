@@ -10,5 +10,3 @@ if km1 or km2 or km3 or km4 or km5 >= limite:
     print("Peligro")
 elif km1 or km2 or km3 or km4 or km5 <= minimo:
     print("Peligro")
-
-
